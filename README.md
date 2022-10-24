@@ -1,5 +1,6 @@
 ### Hi there 👋
 https://www.codewars.com/users/Ori-wiki/badges/large
+https://www.codewars.com/users/Ori-wiki
 <!--
 **Ori-wiki/Ori-wiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
