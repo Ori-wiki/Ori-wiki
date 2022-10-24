@@ -2,7 +2,8 @@
 
 [![codewars](https://www.codewars.com/users/Ori-wiki/badges/large)](https://www.codewars.com/users/Ori-wiki)  
 
-https://www.codewars.com/users/Ori-wiki/badges/large
+[![Telegram]Телеграм](https://t.me/Muda_jo)
+
 
 
 
