@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars](https:/www.codewars.com/users/Ori-wiki/badges/large)](https://www.codewars.com/users/Ori-wiki)  
+[![codewars](https://www.codewars.com/users/Ori-wiki/badges/large)](https://www.codewars.com/users/Ori-wiki)  
 
 https://www.codewars.com/users/Ori-wiki/badges/large
 
