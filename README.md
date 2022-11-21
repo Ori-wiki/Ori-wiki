@@ -2,7 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/Ori-wiki/badges/small)](https://www.codewars.com/users/Ori-wiki)  
 
-[Telegram](https://t.me/Muda_jo)
+[![Telegram](https://www.aov.ru/images/telegram_logo.png)](https://t.me/Muda_jo)
 
 
 
