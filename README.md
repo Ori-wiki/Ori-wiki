@@ -6,7 +6,7 @@
 
 
 
-![Telegram_icon](https://user-images.githubusercontent.com/92172416/203591634-61b959fa-8739-47f4-9024-9a0665c9548a.png)
+
 
 <!--
 **Ori-wiki/Ori-wiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
