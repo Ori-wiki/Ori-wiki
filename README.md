@@ -5,10 +5,6 @@
 [![Telegram](https://solina-avto.ru/images/tg_logo.png)](https://t.me/Muda_jo)
 
 
-
-qwe
-
-
 <!--
 **Ori-wiki/Ori-wiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
