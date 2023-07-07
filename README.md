@@ -23,9 +23,7 @@
 
 <h3  align="left">My activity:</h3>
 
-<p><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolswood&" alt="coolswood" /></p>
-
-[![Codewars](https://www.codewars.com/users/Ori-wiki/badges/large)
+![Codewars](https://www.codewars.com/users/Ori-wiki/badges/large)
 
 <h3  align="left">Connect with me:</h3>
 <p align="left">
