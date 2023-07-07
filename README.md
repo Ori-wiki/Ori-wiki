@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis!</h1>
-<h3 align="center">Курс "Front end-developer✌️</h3>
+<h3 align="center">Front end-developer✌️</h3>
 
 
 
