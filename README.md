@@ -9,7 +9,7 @@
 <a href="https://redux.js.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" /> </a> &nbsp;
 <a href="https://sass-lang.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass/scss" width="50" height="50" /> </a> &nbsp;
 <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" /> </a> &nbsp;
-<a href="https://zod.dev"> <img src="https://github.com/colinhacks/zod/blob/master/logo.svg" alt="zod" width="50" height="50" /> </a> &nbsp;
+<a href="https://mui.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MaterialUI" width="50" height="50" /> </a> &nbsp;
 </p>
 
 
