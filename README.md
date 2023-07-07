@@ -23,7 +23,7 @@
 
 <h3  align="left">My activity:</h3>
 
-![[Codewars](https://www.codewars.com/users/Ori-wiki)](https://www.codewars.com/users/Ori-wiki/badges/large)
+![[Codewars](https://www.codewars.com/users/Ori-wiki)(https://www.codewars.com/users/Ori-wiki/badges/large)](https://www.codewars.com/users/Ori-wiki)
 
 <h3  align="left">Connect with me:</h3>
 <p align="left">
