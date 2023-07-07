@@ -1,8 +1,6 @@
-### Hi there 👋
-##CODEWARS:
+<h1 align="center">Hi 👋, I'm Denis!</h1>
+<h3 align="center">Курс "Front end-developer✌️</h3>
 
-
-sadsadsadsadasda
 
 
 <!--
