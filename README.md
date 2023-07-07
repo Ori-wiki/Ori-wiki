@@ -12,6 +12,14 @@
 <a href="https://mui.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MaterialUI" width="50" height="50" /> </a> &nbsp;
 </p>
 
+<h3 align="left">Back-end languages and Tools:</h3>
+
+<p align="left">
+<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /> </a> &nbsp;
+<a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" /> </a> &nbsp;
+<a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" /> </a> &nbsp;
+<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> </a> &nbsp;
+</p>
 
 <!--
 **Ori-wiki/Ori-wiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
