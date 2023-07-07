@@ -21,6 +21,17 @@
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> </a> &nbsp;
 </p>
 
+<h3  align="left">My activity:</h3>
+
+<p><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolswood&" alt="coolswood" /></p>
+
+[![Codewars](https://www.codewars.com/users/Ori-wiki/badges/large)
+
+<h3  align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/Muda_io" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="50" /></a>
+</p>
+
 <!--
 **Ori-wiki/Ori-wiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
