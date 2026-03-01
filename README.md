@@ -6,6 +6,7 @@
 <a rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a>  
 <a rel="noopener noreferrer" href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" /> </a>  
 <a rel="noopener noreferrer" href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a>  
+<a rel="noopener noreferrer" href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" /> </a>  
 <a rel="noopener noreferrer" href="https://redux.js.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" /> </a>  
 <a rel="noopener noreferrer" href="https://sass-lang.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass/scss" width="50" height="50" /> </a>  
 <a rel="noopener noreferrer" href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" /> </a>  
