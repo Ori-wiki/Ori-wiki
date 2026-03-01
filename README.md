@@ -30,5 +30,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a rel="noopener noreferrer" href="https://t.me/@denis_web_03"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="50" /></a>
+<a rel="noopener noreferrer" href="https://t.me/denis_web_03"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="50" /></a>
 </p>
