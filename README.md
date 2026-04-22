@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">Frontend Developer ✌️</h3>
 
----
-
 ### 🚀 Tech Stack
 
 #### 🖥 Frontend
@@ -25,16 +23,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
 </p>
 
----
-
 ### 📊 Activity
 <p align="left">
   <a href="https://www.codewars.com/users/Ori-wiki">
     <img src="https://www.codewars.com/users/Ori-wiki/badges/large"/>
   </a>
 </p>
-
----
 
 ### 📬 Connect with me
 <p align="left">
