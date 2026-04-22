@@ -6,7 +6,7 @@
 ### 🚀 Tech Stack
 
 #### 🖥 Frontend
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
@@ -18,7 +18,7 @@
 </p>
 
 #### ⚙️ Backend
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50"/>
@@ -28,7 +28,7 @@
 ---
 
 ### 📊 Activity
-<p align="center">
+<p align="left">
   <a href="https://www.codewars.com/users/Ori-wiki">
     <img src="https://www.codewars.com/users/Ori-wiki/badges/large"/>
   </a>
@@ -37,7 +37,7 @@
 ---
 
 ### 📬 Connect with me
-<p align="center">
+<p align="left">
   <a href="https://t.me/denis_web_03">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="40"/>
   </a>
