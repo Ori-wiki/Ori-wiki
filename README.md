@@ -71,17 +71,3 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="40"/>
   </a>
 </p>
-
-### 📊 Activity
-<p align="left">
-  <a href="https://www.codewars.com/users/Ori-wiki">
-    <img src="https://www.codewars.com/users/Ori-wiki/badges/large"/>
-  </a>
-</p>
-
-### 📬 Connect with me
-<p align="left">
-  <a href="https://t.me/denis_web_03">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="40"/>
-  </a>
-</p>
