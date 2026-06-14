@@ -48,9 +48,6 @@
     <img src="https://www.codewars.com/users/Ori-wiki/badges/large"/>
   </a>
 </p>
-<a href="https://t.me/denis_web_03">
-  <img src="https://img.shields.io/badge/Telegram-Denis-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
 
 ### 📬 Connect with me
 
